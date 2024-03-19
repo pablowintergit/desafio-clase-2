@@ -5,5 +5,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: slateblue;;
+    flex-direction: column;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+
+.toolbar-header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: blue;
 }
